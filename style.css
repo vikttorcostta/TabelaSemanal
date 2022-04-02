@@ -1,0 +1,34 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(23, 42, 124);
+  }
+ table{
+     border: 5px rgb(255, 255, 255) solid;
+     background: white;
+    
+  }
+  th {
+  background: red;
+  }
+  td{
+      background: rgb(76, 142, 218);
+  }
+  #rodape{
+      color: white;
+      text-align: center;
+      background: rgb(255, 0, 0);
+      padding: 20px;
+  }
+
+  /*
+  #top{
+
+      background: rgb(141, 141, 145);
+      width: 100%;
+      height: 55px;
+      */
+      
+  }
+  #logo{
+      width: 1325px;
+      padding: 10px;
